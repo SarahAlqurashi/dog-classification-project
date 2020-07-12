@@ -1,6 +1,6 @@
 # dog-classification-project
 The dog classification project predicts dog breeds by designing and training a convolutional neural network to analyze images of dogs and correctly identify their breeds for deep learning  Nanodegree program of Udacity. The goal of this project is to predict 133 different dog breeds using 8351 dog images. The algorithm takes an image as an input and if the given image is for humans, the algorithm returns the dog name the most resembles that human. The algorithm trained on GPU.
-# Folder Structure:
+# Porject Folder Structure:
 * The dog_app.ipynb - Jupyter notebook that includes all the code
 * The images folder contains sample images
 # Datasets: 
