@@ -15,7 +15,7 @@ The dog_app.ipynb Jupyter notebook include a code that downloads the dataset
 * VGG-16 Architecture
 # Porject Libraries :
 * Pytorch
-* OpenCV (Human Face Detection)
-* Matplotlib (Plot Images)
-* Numpy (Numerical computations)
+* OpenCV for Human Face Detection
+* Matplotlib to Plot Images
+* Numpy 
 
